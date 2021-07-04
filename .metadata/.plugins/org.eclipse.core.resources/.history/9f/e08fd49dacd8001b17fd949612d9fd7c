@@ -1,0 +1,14 @@
+package fizzbuzz;
+
+public class practice {
+	public static void main(String[] args) {
+		String[] items = {"*****","****","***","**","*"};
+		
+		System.out.println(items[0]);
+		System.out.println(items[1]);
+		System.out.println(items[2]);
+		System.out.println(items[3]);
+		System.out.println(items[4]);
+	}
+
+}
