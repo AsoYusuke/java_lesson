@@ -10,6 +10,7 @@ public class XXX {
 			} else {
 				System.out.println("  |--");
 			}
+			System.out.println();
 		}
 	}
 
